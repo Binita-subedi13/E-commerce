@@ -1,0 +1,79 @@
+vangohg- The Starry Night 1889
+vangogh1- Wheat Field with Cypresses 1889
+vangogh2- green Wheat Fields, Auvers 1890
+vangogh3- Farmhouse in Provence 1888
+vangogh4- Sunflowers 1887
+vangogh5- Bouquet of Flowers in a Vase 1890
+vangogh6- Still Life of Oranges and Lemons with Blue Gloves
+vangogh7- Roses 1890
+
+
+
+
+
+
+
+
+
+
+
+<div class="pro">
+        <form action="index.php" method="post">
+          <div  class="proimg">
+          <img src="Images/tae3.png" alt="">
+        </div>
+          <div class="des">
+            <span>Artist of the piece</span>
+            <h5>Name of piece</h5>
+            <div class="star">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+            </div>
+                <h4>67$</h4>
+          </div>
+              <a href="#" class="cart"><i id="cart-color" class="fa-solid fa-cart-shopping" ></i></a>
+              </form>
+            </div>
+         <div class="pro">
+         <form action="index.php" method="post">
+          <div  class="proimg">
+           <img src="Images/jkk2.png" alt="">
+          </div>
+           <div class="des">
+             <span>Artist of the piece</span>
+             <h5>Name of piece</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+             </div>
+                 <h4>67$</h4>
+           </div>
+               <a href="#" class="cart"><i id="cart-color" class="fa-solid fa-cart-shopping" ></i></a>
+               </form>
+              </div>
+    <div class="pro">
+    <form action="index.php" method="post">
+      <div  class="proimg">
+      <img src="Images/potrait5.png" alt="">
+    </div>
+      <div class="des">
+        <span>Artist of the piece</span>
+        <h5>Name of piece</h5>
+        <div class="star">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+        </div>
+            <h4>67$</h4>
+      </div>
+          <a href="#" class="cart"><i id="cart-color" class="fa-solid fa-cart-shopping" ></i></a>
+          </form>
+         </div>
